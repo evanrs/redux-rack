@@ -21,5 +21,14 @@
   "bugs": {
     "url": "https://github.com/evanrs/redux-rack/issues"
   },
-  "homepage": "https://github.com/evanrs/redux-rack#readme"
+  "homepage": "https://github.com/evanrs/redux-rack#readme",
+  "peerDependencies": {
+    "prop-types": "^15.5.10",
+    "react": "^15.5.4",
+    "redux": "^3.6.0"
+  },
+  "dependencies": {
+    "hoist-non-react-statics": "^1.2.0",
+    "lodash-es": "^4.17.4"
+  }
 }
