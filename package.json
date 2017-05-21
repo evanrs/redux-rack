@@ -1,0 +1,25 @@
+{
+  "name": "redux-rack",
+  "version": "1.0.0",
+  "description": "Treat Redux like a rack — mount reducers like components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanrs/redux-rack.git"
+  },
+  "keywords": [
+    "redux",
+    "reducer",
+    "dynamic",
+    "reducer"
+  ],
+  "author": "Evan Schneider",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/evanrs/redux-rack/issues"
+  },
+  "homepage": "https://github.com/evanrs/redux-rack#readme"
+}
