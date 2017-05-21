@@ -60,7 +60,7 @@ withReducer((state, action) =>
   - [ ] combined `{ foo, bar }`
   - [ ] nested `{ bar, bar.baz }`
   - [ ] iterative `{ foos[], foos[].prop }`
-  - [ ] global, `window.throw(caution)`
+  - [x] global, `window.throw(caution)`
 
 - __Development__
   - [ ] stable
