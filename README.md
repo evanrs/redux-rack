@@ -61,3 +61,9 @@ withReducer((state, action) =>
   - [ ] nested `{ bar, bar.baz }`
   - [ ] iterative `{ foos[], foos[].prop }`
   - [ ] global, `window.throw(caution)`
+
+- __Development__
+  - [ ] stable
+  - [x] active
+  - [ ] wanting
+  - [ ] in need of intervention
