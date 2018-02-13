@@ -64,6 +64,7 @@ withReducer((state, action) =>
 
 - __Development__
   - [ ] stable
-  - [x] active
+  - [ ] active
   - [ ] wanting
   - [ ] in need of intervention
+  - [x] delinquent neglect
